@@ -3,7 +3,7 @@
 My name is Pankaj Yogesh Gangurde. I am applying for the Python Developer Intern role at Embed Square Solutions Pvt. Ltd.
 
 - **Full Name:** Pankaj Yogesh Gangurde
-- **GitHub:** https://github.com/Pankaj0028/ES-python-assessment-strings-data-processing-pankaj-yogesh-gangurde002
+- **GitHub:** https://github.com/Pankaj0028/ES-python-assessment-strings-data-processing-pankaj-yogesh-gangurde
 - **Submission Date:** 02 November 2026
 
 ## What I built
